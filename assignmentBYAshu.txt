@@ -1,0 +1,20 @@
+Fields
+
+Name :  (It shoud be Text)
+Email : 
+Age : 	(It shoud be number)
+Gender : Male(Ashu) Female(Neelam) Other(Pranam) (Radio Button)
+Address :  (Text Area)
+Country : Denmark,India,Austalia,US,Egypt
+Date  : CheckBox (BY Default True, Disable)
+Button : Login
+PWD : 
+RE-PWD :
+
+But (Alert : Insufficent Details);
+
+again Go to Login Page
+
+
+
+
